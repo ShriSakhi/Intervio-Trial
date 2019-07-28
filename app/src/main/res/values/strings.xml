@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntervioTrial</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_home">activity_home</string>
+    <string name="title_activity_home1">activity_home1</string>
+    <string name="title_activity_company">activity_company</string>
+    <string name="title_activity_dashboard">activity_dashboard</string>
+    <string name="title_activity_instructions">activity_instructions</string>
+    <string name="title_activity_mock_interview">activity_mockInterview</string>
+    <string name="title_activity_view_profile">activity_viewProfile</string>
+    <string name="title_activity_score_card">activity_scoreCard</string>
+    <string name="title_activity_sign_up">activity_signUp</string>
+    <string name="title_activity_results">activity_results</string>
+    <string name="title_activity_sample">sample</string>
+</resources>
